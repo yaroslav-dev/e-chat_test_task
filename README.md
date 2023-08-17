@@ -1,6 +1,10 @@
 # e-chat-test-task
 
-This template should help get you started developing with Vue 3 in Vite.
+<a href="https://vitejs.dev/" title="Vite"><img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" alt="Vite" width="21px" height="21px"></a>
+<a href="https://vuejs.org/" title="Vue.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="Vue.js" width="21px" height="21px"></a>
+<a href="https://vuetifyjs.com/" title="Vuetify"><img src="https://github.com/get-icon/geticon/raw/master/icons/vuetifyjs.svg" alt="Vuetify" width="21px" height="21px"></a>
+
+To-Do List developed with Vue 3 & Vuetify 3 UI Library. State management is done using Pinia & VueUse Collection.
 
 ## Recommended IDE Setup
 
