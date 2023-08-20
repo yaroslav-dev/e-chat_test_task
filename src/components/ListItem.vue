@@ -79,7 +79,8 @@ watch(item, () => {
 
 const emit = defineEmits(['removeItem'])
 const removeItem = () => {
-  let itemId = item.id
+  let itemId = item.value.id
+
   emit('removeItem', itemId)
 }
 </script>
